@@ -1,0 +1,27 @@
+{
+  "name": "cambiosapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "country-to-currency": "^1.0.10",
+    "currency-flag": "^0.0.6",
+    "currency-list": "^1.0.8",
+    "firebase": "^9.22.1",
+    "iso-3166-1": "^2.1.1",
+    "next": "13.4.3",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-currency-flags": "^0.1.2",
+    "react-dom": "18.2.0",
+    "react-flags-select": "^2.2.3",
+    "styled-components": "^5.3.11",
+    "tailwindcss": "3.3.2"
+  }
+}
